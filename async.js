@@ -1,4 +1,4 @@
-const apiKey = "2380d8b43d2d3825fe8e93ed190502ea";
+const apiKey = "Enter your api key";
 
 async function getWeather(){
 
